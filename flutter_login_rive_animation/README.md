@@ -71,8 +71,7 @@ Contributions are welcome! Please fork the repository and create a pull request.
 
 For any inquiries, please contact me at [badardaad61@gmail.com](mailto:badardaad61@gmail.com).
 
-
-##ScreenRecording
+## ScreenRecording
 
 https://github.com/BadarDaad/Login_with_Rive_Animation/assets/89187127/5fbe6de6-7f4b-4e13-9a12-bc1a0aa3c2b2
 
